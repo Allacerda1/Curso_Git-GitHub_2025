@@ -1,3 +1,5 @@
 ls -> Lista Arquivos
 cd -> Move entre diretórios
 pwd -> Mostra diretório de trabalhos
+cat -> Exibe os arquivos dentro da pasta
+rm -> Remove arquivo ou diretório
