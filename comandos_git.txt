@@ -2,3 +2,4 @@ git init . -> Cria um repositório vazio
 git status -> Mostra o estado de cada um de seus arquivos
 git add "msg" ou git add . -> Prepara e seleciona seu arquivo ou seus arquivos, para que eles possam ser salvos
 git commit -m "msg" -> Salva seus arquivos que foram feitos e alterados, até aquele momento
+foda-se
