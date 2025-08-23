@@ -1,0 +1,1 @@
+3) Criado um novo arquivo, com uma nova branch, chamada arquivo02.
