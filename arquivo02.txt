@@ -1,1 +1,2 @@
 3) Criado um novo arquivo, com uma nova branch, chamada arquivo02.
+4) Agora estou realizando uma alteração, para pode salvar com os comandos add . e commit -m.
