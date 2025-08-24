@@ -1,0 +1,48 @@
+[33mcommit d1f78d2faf21314f0426a406b395348cd1fdf831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 9019bdd 6f315b5
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Sat Aug 23 11:56:43 2025 -0300
+
+    Merge branch 'secundario02'
+
+[33mcommit 6f315b530fc1d1463deda4be828bf53dfa23928a[m[33m ([m[1;32msecundario02[m[33m)[m
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Sat Aug 23 11:54:23 2025 -0300
+
+    Arquivo02 feito a alteração.
+
+[33mcommit f008e32e82b35f9a2bd0acf1587c5532212ebf90[m
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Sat Aug 23 11:53:11 2025 -0300
+
+    Criado a segunda branch arquivo02.
+
+[33mcommit 9019bddf1cc585f792cdfa4a30796f5ee3d34458[m[33m ([m[1;32msecundario01[m[33m)[m
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Sat Aug 23 11:51:05 2025 -0300
+
+    Adicionado uma nova alteração no arquivo01.
+
+[33mcommit f435dfd69eb3014be17cb0acc4aaf3797a3f0368[m
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Sat Aug 23 11:49:22 2025 -0300
+
+    Arquivo01 criado.
+
+[33mcommit 15c4e98b182ddf13ba09d07c891692e162305771[m
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Sat Aug 23 11:11:11 2025 -0300
+
+    novos comandos secundarios.
+
+[33mcommit 5a25e5999be303bbcd7ec8a17a374ede2813e256[m
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Fri Aug 22 18:37:44 2025 -0300
+
+    Novos comando bash e primeiros comandos git.
+
+[33mcommit 04a177a13cdcd76cbb118e4e0dd542c1a256b4d5[m
+Author: Adriano Luiz de Lacerda <llacerdaadriano16@gmail.com>
+Date:   Fri Aug 22 14:16:14 2025 -0300
+
+    Primeiros comandos bash.
