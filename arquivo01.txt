@@ -1,2 +1,0 @@
-1) Estamos criando uma nova branch com o nome de arquivo01.
-2) Adicionando essa linha, para pode realizar uma nova preparação git add. e em seguida git commit -m.
